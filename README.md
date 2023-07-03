@@ -6,6 +6,5 @@ The project is a very basic webpage that uses HTML and CSS.
 
 I have included the images and the project outline that was used for reference.
 
-HTML file - index.html
-
-CSS file - index.css
+- HTML file - index.html
+- CSS file - index.css
