@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 0 5px;
+}
+
+h1 {
+    width: 100%;
+    background-image: url("/home/bsandma1/Desktop/DevProject/resources/images/pattern.jpeg");
+    color: khaki;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    margin: 70px 0;
+}
+
+h2 {
+    width: 100%;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+section {
+    font-family: Helvetica;
+}
+
+#brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+#frames h2 {
+    background-color: lightcoral;
+}
+
+#paint h2 {
+    background-color: skyblue;
+}
+
+.description span {
+    font-weight: bold;
+    color: blue;
+}
+
+section, h2, h3, .description {
+    margin: 25px 0;
+}
